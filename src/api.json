@@ -140,10 +140,10 @@
           "id": 5
         }
       ]
-    }
+    },
 	{
       "id": 4,
-      "description": "Si queres buena musica",
+      "description": "Taylor",
       "title": "Taylor Swift",
       "playlist": [
         {
@@ -151,15 +151,15 @@
           "author": "Taylor Swift",
           "type": "video",
           "cover": "./images/covers/taylorRed.jpg",
-          "src": "",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 1
         },
         {
-          "title": "Ultimas Noticias",
+          "title": "Ultimas Noticias Taylor",
           "author": "Taylor Swift",
           "type": "video",
           "cover": "./images/covers/taylorNoticia.jpg",
-          "src": "",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 3
         },
         {
@@ -167,11 +167,12 @@
           "author": "Taylor Swift",
           "type": "video",
           "cover": "./images/covers/Taylor-Bad-Blood-Official.jpg",
-          "src": "",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
           "id": 2
         }
       ]
     }
+	
   ]
 }
 
