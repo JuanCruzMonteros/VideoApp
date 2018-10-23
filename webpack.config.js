@@ -17,7 +17,7 @@ module.exports = (env) => {
   return {
 
     entry: {
-      "VideoApp": path.resolve(__dirname, 'index.js'),
+      "platzi-video": path.resolve(__dirname, 'index.js'),
     },
     output: {
       path: path.resolve(__dirname, 'dist'),

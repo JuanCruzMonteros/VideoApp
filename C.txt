@@ -1,0 +1,3 @@
+Ignorar este archivo es solo una referencia para el que creo la aplicación
+c:17
+folder component -> siempre puros o funcionales
